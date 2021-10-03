@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @zahrakhoshdel
-- 👀 I’m interested in ...
+I am a IT engineer;
+My primary programming languages are java and Python.
+
+- 👋 Hi, I’m zahra khoshdel
+- 👀 I'm interested in image processing
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: imzahrakhoshdel@gmail.com
 
 <!---
 zahrakhoshdel/zahrakhoshdel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
