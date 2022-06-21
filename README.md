@@ -1,5 +1,5 @@
 I am a IT engineer;
-My primary programming languages are java and Python.
+My primary programming languages are javaScript and Python.
 
 - 👋 Hi, I’m zahra khoshdel
 - 👀 I'm interested in image processing
