@@ -9,8 +9,6 @@ My name is Zahra Khoshdel and I am gald you are visiting my profile now!
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me: imzahrakhoshdel@gmail.com
 
-🛠  Languages and Tools:
-HTML5  CSS  Bootstrap  TypeScript  JavaScript  NodeJS  Flutter  Dart  Image Processing  Machine Learning  React  Git  GitHub  Visual Studio Code 
 
 ### 🛠 &nbsp;Languages and Tools:
 
