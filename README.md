@@ -1,6 +1,10 @@
 Hi there 👋
-My name is Zahra Khoshdel and I am gald your are visiting my profile now!
+My name is Zahra Khoshdel and I am gald you are visiting my profile now!
 
+<!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=zahrakhoshdel&label=Profile%20views&color=blue&style=flat" alt="zahrakhoshdel" /> </p>--->
+<!---"https://komarev.com/ghpvc/?username=zahrakhoshdel"--->
+
+- 🙋 I am an IT Engineer
 - 👀 I'm interested in image processing
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me: imzahrakhoshdel@gmail.com
