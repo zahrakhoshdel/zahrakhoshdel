@@ -22,7 +22,7 @@ My name is Zahra Khoshdel and I am gald you are visiting my profile now!
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zahrakhoshdel&label=Profile%20views&color=blue&style=flat" alt="zahrakhoshdel" /> </p>
+<!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=zahrakhoshdel&label=Profile%20views&color=blue&style=flat" alt="zahrakhoshdel" /> </p>--->
 
 <!---
 zahrakhoshdel/zahrakhoshdel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
