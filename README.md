@@ -9,8 +9,6 @@ My name is Zahra Khoshdel and I am gald you are visiting my profile now!
 
 ### 🛠 &nbsp;Languages and Tools:
 
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-
 ![REACT](https://img.shields.io/badge/React%20-%2320232a.svg?style=flat&logo=react)&nbsp;
 ![HTML5](https://img.shields.io/badge/Redux%20-black.svg?style=flat&logo=redux)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
